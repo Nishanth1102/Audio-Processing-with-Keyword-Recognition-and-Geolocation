@@ -5,7 +5,7 @@ import gmaps
 import requests
 
 # Google Maps API setup
-gmaps_key = "AIzaSyDdIE8FAOa3g9vx1xRkrfkayQgBOCIjAw8"
+gmaps_key = "your_actual_api_key_here"
 gmaps.configure(api_key=gmaps_key)
 
 # Speech recognition function
